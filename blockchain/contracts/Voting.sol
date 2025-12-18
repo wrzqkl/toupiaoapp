@@ -1,4 +1,5 @@
 pragma solidity ^0.8.19;
+// SPDX-License-Identifier: UNLICENSED
 
 contract Voting {
     // 候选人结构体
